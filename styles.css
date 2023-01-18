@@ -81,6 +81,10 @@ hr{
     margin-left: 30px;
 }
 
+.network-desc{
+    padding-bottom: 100px;
+}
+
 .top-cloud{
     position: absolute; /* set to absolute as it is a child, relative to the parents position */
     right: 300px; /* relative to the parent (top-container) */
